@@ -1,5 +1,5 @@
 *{
-    font-family: "Rubik", sans-serif;
+    font-family: "Karma", sans-serif;
 
 }
 .header{
@@ -46,4 +46,39 @@
 .image{
     height: 325px;
     width: 250px;
+}
+
+.aboutme{
+    text-align: center;
+}
+.chefImg{
+    margin: auto;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.footerImg{
+    height: 50px;
+    width: 50px;
+}
+.blogcontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.button{
+    background-color: #606867;
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+.footerSection{
+    width: 33%;
+}
+.blogposts{
+    width: 33%;
+}
+.PopularTags{
+    width: 33%;
 }
