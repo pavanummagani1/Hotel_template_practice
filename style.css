@@ -1,0 +1,49 @@
+*{
+    font-family: "Rubik", sans-serif;
+
+}
+.header{
+    height: 50px;
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.hamburger{
+    margin: 20px 0px 0px 15px;
+    display: inline-block;
+   
+}
+.line{
+    width: 15px;
+    border: 1px solid;
+    margin-bottom: 2px;
+    
+}
+.name{
+    display: inline-block;
+}
+.contactus{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+/*Food Section*/
+.foodSection{
+    margin-top: 20px;
+    padding: 20px;
+}
+.firstLine{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Item{
+    width: 275px;
+    text-align: center;
+}
+.image{
+    height: 325px;
+    width: 250px;
+}
