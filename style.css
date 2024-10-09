@@ -68,6 +68,9 @@
     flex-direction: row;
     align-items: center;
 }
+.blogcontainer:hover{
+    background-color: #606867;
+}
 .button{
     background-color: #606867;
     color: #ffffff;
@@ -82,3 +85,4 @@
 .PopularTags{
     width: 33%;
 }
+
